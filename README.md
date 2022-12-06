@@ -1,5 +1,5 @@
 # Memory-allocation-and-management-tool
-/*	Alex Baboshin, AxFisr@gmail.com
+/*	Alex Baboshin, AxFisr@gmail.com , https://www.linkedin.com/in/xander-baboshin
 	Memory allocation and management */
 
 The mechanism allows the user to determine the amount and size of blocks needed for his program, 
